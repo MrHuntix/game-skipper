@@ -1,3 +1,2 @@
 # game-skipper
-Its my first game built using pygame.
-The basic goal of the game is to jump over the obstacles to score a point.
+A clone of the chrome dinosaur game build using pygame and python
